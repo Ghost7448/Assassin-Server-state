@@ -33,7 +33,7 @@ const GUILD_ID = process.env.GUILD_ID;
 // false = Offline
 // =====================================
 
-const SERVER_ONLINE = false;
+const SERVER_ONLINE = true;
 
 
 // =====================================
