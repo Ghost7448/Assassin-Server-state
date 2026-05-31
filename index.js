@@ -95,7 +95,7 @@ client.once('clientReady', async () => {
             // =====================================
 
             const embedColor = SERVER_ONLINE
-                ? '#00ff0d'
+                ? '#242424'
                 : '#ff0000';
 
 
